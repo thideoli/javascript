@@ -1,3 +1,5 @@
+'use strict';
+
 var produto = {nome: 'Produto', preco: 150};
 
 var formulaImpostoA = function (preco) {
